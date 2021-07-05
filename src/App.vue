@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <Title msg="La mia prima app con Vue CLI!"/>
-
+    
     <Hero msg="Ci ho provato, volevo caricare un'immagine ma rinuncio, questo sarà il mio jumbotron fino a domani"/>
   </div>
 

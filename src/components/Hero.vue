@@ -19,6 +19,9 @@ export default {
 <style scoped>
 h3 {
   color: red;
+  background-color: greenyellow;
+  padding: 20px;
 }
+
 
 </style>
